@@ -1,0 +1,368 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/_fe_analyzer_shared-50.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/analyzer-5.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/archive-3.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/args-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "barcode",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/barcode-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bidi",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/bidi-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/build-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/built_value-8.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/characters-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/code_builder-4.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/collection-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/crypto-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/dart_style-2.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/ffi-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/fixnum-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/glob-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/image-3.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/js-0.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/logging-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/matcher-0.12.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/material_color_utilities-0.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mockito",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/mockito-5.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_config-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pdf",
+      "rootUri": "../../pdf",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/plugin_platform_interface-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/pointycastle-3.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/pub_semver-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "qr",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/qr-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_gen",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_gen-1.2.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/stream_channel-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.4.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/typed_data-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/watcher-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/xml-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/mac_gaoyunfei_2020/flutter/.pub-cache/hosted/pub.flutter-io.cn/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yjy_printing",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2022-12-04T05:02:58.385916Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.2"
+}
